@@ -4,7 +4,7 @@ __pycache__/
 .venv/
 venv/
 
-# Data (we'll regenerate from script — don't commit the DB file)
+# Data 
 data/*.duckdb
 data/*.duckdb.wal
 
